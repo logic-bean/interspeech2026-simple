@@ -1,7 +1,7 @@
 # Interspeech 2026 Paper Guide
 
 ## 这是什么？
-参考JenniferZhao0531/ICML2026-Guide-CN仓库，利用Workbuddy，通过prompt对Interspeech 2026的论文进行导读页面制作。
+参考[JenniferZhao0531/ICML2026-Guide-CN](https://github.com/JenniferZhao0531/ICML2026-Guide-CN)仓库，利用Workbuddy，通过prompt对Interspeech 2026的论文进行导读页面制作。
 
 **在线浏览方式**：https://logic-bean.github.io/interspeech2026-simple/ 
 
